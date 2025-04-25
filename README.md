@@ -21,4 +21,4 @@ Netherlands, EIRE, and Germany are top revenue-generating countries.
 
 Top customer (ID: 14646) generated $280K+ in revenue.
 
-📍 Developed with Power BI for interactive data visualization and business insight.
+Developed with Power BI for interactive data visualization and business insight.
